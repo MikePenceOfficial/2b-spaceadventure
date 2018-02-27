@@ -20,3 +20,6 @@ text-align: center;
 	border: ridge;
 	border-radius: 25px;
 }
+#title {
+	font-size:36px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif}
